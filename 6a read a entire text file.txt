@@ -9,6 +9,9 @@ Have a nice day                           |
 welcome to python world!                  |
 python is easy to learn                   |
                                           |
+see the code above                        |
+named as :- 6 If you got any 6th code..   |
+                                          |
 ------------------------------------------|
 
 code
